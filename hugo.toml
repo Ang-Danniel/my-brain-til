@@ -1,6 +1,6 @@
-baseURL = 'https://ang-danniel.github.io/ios-journey/'
+baseURL = 'https://ang-danniel.github.io/my-brain-til/'
 languageCode = 'en-us'
-title = "iOS Journey"
+title = "Today i learned.."
 copyright = 'Ang-Danniel' # Used in the footer copyright mention.
 enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's genAI/LLM web crawler blocking feature.
 theme = "til"
